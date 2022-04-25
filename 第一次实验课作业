@@ -1,0 +1,42 @@
+#question1.1
+1/(1:1000)#求倒数
+atan(1/(1:1000))#求反正切
+
+#question1.2
+x<-C(1:1000)
+y<- atan(1/x)
+z <-1/(tan()
+
+#question2
+X==Z
+all.equal(xz)
+identical(xz)
+all.equal(x,z.0)
+
+#question3
+true and missing <- C(TRUE,NA)
+false and missing <- C(FALSE, NA)
+mixed <- C(TRUE, FALSE, NA)
+any(true_ and missing)
+any(false and missing)
+any(mixed)#或的关系
+all(true_ and missing)
+all(false and missing)
+all(mixed)#与的关系
+
+#question4.1
+a <- c(sample(50:1000,100))#生成100个50~1000的整数
+sum(a)
+mean(a)
+var(a)
+
+#question4.2
+R <- atan(1000)
+S <- (R**2)*pi#计算圆的面积
+S
+
+#question4.3
+p1 <- (2,3)
+p2 <- C(13,22)
+d <- sqrt(p1[1]-p2[1)**2 + (p1[2]-p2[2])*2)#计算两点间距离
+d
